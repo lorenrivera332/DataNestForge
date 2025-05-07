@@ -1,0 +1,23 @@
+
+---
+
+### **2. 37_EndpointWaveGrid**  
+**Description:**  
+Scans and tracks the behavior of multiple API endpoints, detecting latency waves and downtime blips.
+
+#### **README.md**
+```markdown
+# EndpointWaveGrid - API Latency Monitor
+
+EndpointWaveGrid gives developers a real-time view of endpoint response behavior across clusters or regions.
+
+## Features
+- Status + latency snapshot  
+- Wave/burst visualization  
+- CSV / JSON output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_EndpointWaveGrid.git
+cd 37_EndpointWaveGrid
+python monitor.py
