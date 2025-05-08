@@ -1,0 +1,23 @@
+
+---
+
+### **3. 37_LogEchoMap**  
+**Description:**  
+Analyzes logs for message echoes, burst zones, and keyword trends across time.
+
+#### **README.md**
+```markdown
+# LogEchoMap - Log Frequency Burst Analyzer
+
+LogEchoMap uncovers high-frequency log events and keyword repetition that signal instability or bugs.
+
+## Features
+- Echo/repetition heatmap  
+- Timestamp grouping  
+- CLI reports  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_LogEchoMap.git
+cd 37_LogEchoMap
+python analyze.py logs/system.log
