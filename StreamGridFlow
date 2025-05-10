@@ -1,0 +1,23 @@
+
+---
+
+### **4. 37_StreamGridFlow**  
+**Description:**  
+A real-time metric visualizer for multiple data streams in a grid-based chart layout.
+
+#### **README.md**
+```markdown
+# StreamGridFlow - Live Multi-Metric Chart
+
+StreamGridFlow displays real-time numeric input from multiple sources using a dynamic, scrollable chart.
+
+## Features
+- Multi-stream support  
+- Adjustable refresh rate  
+- Built with Matplotlib  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_StreamGridFlow.git
+cd 37_StreamGridFlow
+python visualize.py
