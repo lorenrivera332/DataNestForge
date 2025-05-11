@@ -1,0 +1,17 @@
+
+#### `README.md`
+```markdown
+# LogStormAnalyzer - Burst and Storm Pattern Detector
+
+LogStormAnalyzer identifies intense waves of log activity, repeated warnings, and clustered anomalies.
+
+## Features
+- Pattern clustering  
+- Burst zone detection  
+- CLI heatmap output
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_LogStormAnalyzer.git
+cd 37_LogStormAnalyzer
+python analyze.py
