@@ -1,0 +1,23 @@
+
+---
+
+### **4. StreamLineTunnel**  
+**Description:**  
+Visualizes real-time numerical data with a smooth scrolling chart and optional peak detection.
+
+#### `README.md`
+```markdown
+# StreamLineTunnel - Realtime Data Flow Visualizer
+
+StreamLineTunnel provides a clean interface for visualizing live data feeds, ideal for monitoring and simulation.
+
+## Features
+- Scrollable, smooth chart  
+- Peak detection logic  
+- Matplotlib-powered
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamLineTunnel.git
+cd StreamLineTunnel
+python visualize.py
